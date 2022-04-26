@@ -1,0 +1,15 @@
+/home/mjchaurasia/C#/ReverseNumber/bin/Debug/net6.0/ReverseNumber
+/home/mjchaurasia/C#/ReverseNumber/bin/Debug/net6.0/ReverseNumber.deps.json
+/home/mjchaurasia/C#/ReverseNumber/bin/Debug/net6.0/ReverseNumber.runtimeconfig.json
+/home/mjchaurasia/C#/ReverseNumber/bin/Debug/net6.0/ReverseNumber.dll
+/home/mjchaurasia/C#/ReverseNumber/bin/Debug/net6.0/ReverseNumber.pdb
+/home/mjchaurasia/C#/ReverseNumber/obj/Debug/net6.0/ReverseNumber.csproj.AssemblyReference.cache
+/home/mjchaurasia/C#/ReverseNumber/obj/Debug/net6.0/ReverseNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/mjchaurasia/C#/ReverseNumber/obj/Debug/net6.0/ReverseNumber.AssemblyInfoInputs.cache
+/home/mjchaurasia/C#/ReverseNumber/obj/Debug/net6.0/ReverseNumber.AssemblyInfo.cs
+/home/mjchaurasia/C#/ReverseNumber/obj/Debug/net6.0/ReverseNumber.csproj.CoreCompileInputs.cache
+/home/mjchaurasia/C#/ReverseNumber/obj/Debug/net6.0/ReverseNumber.dll
+/home/mjchaurasia/C#/ReverseNumber/obj/Debug/net6.0/refint/ReverseNumber.dll
+/home/mjchaurasia/C#/ReverseNumber/obj/Debug/net6.0/ReverseNumber.pdb
+/home/mjchaurasia/C#/ReverseNumber/obj/Debug/net6.0/ReverseNumber.genruntimeconfig.cache
+/home/mjchaurasia/C#/ReverseNumber/obj/Debug/net6.0/ref/ReverseNumber.dll
